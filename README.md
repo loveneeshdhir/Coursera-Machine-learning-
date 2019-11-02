@@ -1,2 +1,2 @@
-# Machine-Learnig-Andrew-Ng-
+# Coursera-Machine-Learnig-Andrew-Ng-
 Andrew Ng ML course assignment problems in Octave
